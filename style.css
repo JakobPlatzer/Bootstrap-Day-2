@@ -1,3 +1,7 @@
+body {
+    background-color: rgba(128, 128, 128, 0.305);
+}
+
 .basicp {
     font-size: 110%;
     padding: 2vh;
